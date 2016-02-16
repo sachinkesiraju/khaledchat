@@ -6,7 +6,7 @@ Bless up :pray: khaledchat is a bot on Facebook Messenger to bring you the :key:
 <h2> Installation </h2> 
 khaledchat is built on this <a href = "https://github.com/Schmavery/facebook-chat-api"> Facebook chat API </a> which requires your facebook credentials. Check out the docs if you have any issues with login.
 
-To run khaledbot, download the project and insert a facebook email address and password in the <a href = "https://github.com/sachinkesiraju/khaledchat/blob/master/app.js"> app.js </a> file.
+To run khaledbot, download the project and insert a facebook email address and password in the app.js file.
 
 Then open your command line (make sure you have npm installed) and run:
 ```
