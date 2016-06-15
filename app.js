@@ -145,7 +145,7 @@ login({email: "FACEBOOK_EMAIL", password: "FACEBOOK_PASSWORD"}, function callbac
           response = "You're welcome! Bless up 🙏";
         }
         else {
-          response = keys[Math.floor(Math.random()*keysToSuccess.length)];
+          response = keys[Math.floor(Math.random()*keys.length)];
         }
 
         var yourID = message.participantIDs[0]; 
